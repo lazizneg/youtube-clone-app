@@ -13,4 +13,4 @@ const Navbar = () => (
   </Stack>
 );
 
-export default Navbar
+export default Navbar;
